@@ -12,6 +12,8 @@ We may collect the following personal information from you:
 * Name
 * Email address
 * Phone number
+
+
 We only collect this data when you consent to submitting your personal data through the contact form on our website.
 
 ### Log data
@@ -75,6 +77,7 @@ In certain circumstances, you have the following data protection rights:
 * The right of restriction
 * The right to data portability
 * The right to withdraw consent
+
 
 To make enquiries, exercise any of your rights set out above, or withdraw your content to the process of your personal data, please contact us via this email address: ksuen.dev@gmail.com.
 
