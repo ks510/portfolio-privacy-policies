@@ -56,7 +56,7 @@ We use the following hosting platform:
 Google Firebase from Google 
 LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Firebase")accordance with 
 
-We take the protection of your personal data very seriously. We take reasonable precautions and follow industry best practices to safeguard your data from being lost, misused, accessed, disclosed, altered or destroyed. If you suspect any misuse or loss or unauthorised access to your data, please let us know immediately by contacting us via this email address: ksuen.dev@gmail.com.
+We take the protection of your personal data very seriously. We take reasonable precautions and follow industry best practices to safeguard your data from being lost, misused, accessed, disclosed, altered or destroyed. If you suspect any misuse or loss or unauthorised access to your data, please let us know immediately by contacting us via this email address: karen.webtoast@gmail.com.
 
 We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
 
@@ -79,7 +79,7 @@ In certain circumstances, you have the following data protection rights:
 * The right to withdraw consent
 
 
-To make enquiries, exercise any of your rights set out above, or withdraw your content to the process of your personal data, please contact us via this email address: ksuen.dev@gmail.com.
+To make enquiries, exercise any of your rights set out above, or withdraw your content to the process of your personal data, please contact us via this email address: karen.webtoast@gmail.com.
 
 # Third Party Services
 We use the following services to operate our website and services which may process personal data for necessary operations mentioned in this policy:
@@ -111,5 +111,5 @@ We reserve the right to change this privacy policy as we may deem necessary from
 # Contact information
 Karen Suen  
 15 Maybridge Crescent, Worthing, BN12 6HQ, UK  
-ksuen.dev@gmail.com  
+karen.webtoast@gmail.com  
 
